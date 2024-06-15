@@ -8,7 +8,7 @@ This repo consists of accepted codes for CSES Problem Set.
 |-----------------------|:-------------:|
 | Introductory Problems |     08/19     |
 | Sorting and Searching |     01/35     |
-| Dynamic Programming   |     12/19     |
+| Dynamic Programming   |     02/19     |
 | Graph Algorithms      |     05/36     |
 | Range Queries         |     00/19     |
 | Tree Algorithms       |     00/16     |
