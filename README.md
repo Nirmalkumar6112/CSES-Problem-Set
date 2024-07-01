@@ -17,4 +17,4 @@ This repo consists of accepted codes for CSES Problem Set.
 | Geometry              |      0/7      |
 | Advanced Techniques   |     00/24     |
 | Additional Problems   |     00/77     |
-| **Total**             |    **17/300**  |
+| **Total**             |    **21/300**  |
