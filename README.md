@@ -7,11 +7,11 @@ This repo consists of accepted codes for CSES Problem Set.
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
 | Introductory Problems |     08/19     |
-| Sorting and Searching |     01/35     |
+| Sorting and Searching |     03/35     |
 | Dynamic Programming   |     02/19     |
 | Graph Algorithms      |     05/36     |
 | Range Queries         |     00/19     |
-| Tree Algorithms       |     00/16     |
+| Tree Algorithms       |     02/16     |
 | Mathematics           |     01/31     |
 | String Algorithms     |     00/17     |
 | Geometry              |      0/7      |
