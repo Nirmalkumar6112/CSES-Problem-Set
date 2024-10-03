@@ -8,13 +8,15 @@ This repo consists of accepted codes for CSES Problem Set.
 |-----------------------|:-------------:|
 | Introductory Problems |     08/19     |
 | Sorting and Searching |     03/35     |
-| Dynamic Programming   |     02/19     |
+| Dynamic Programming   |     06/19     |
 | Graph Algorithms      |     05/36     |
 | Range Queries         |     00/19     |
 | Tree Algorithms       |     02/16     |
 | Mathematics           |     01/31     |
 | String Algorithms     |     00/17     |
 | Geometry              |      0/7      |
-| Advanced Techniques   |     00/24     |
+| Advanced Techniques   |     01/24     |
 | Additional Problems   |     00/77     |
-| **Total**             |    **21/300**  |
+| **Total**             |    **26/300**  |
+
+#### *Last Update: 03 Oct 2024* 
