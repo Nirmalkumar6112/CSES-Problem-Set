@@ -7,8 +7,8 @@ This repo consists of accepted codes for CSES Problem Set.
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
 | Introductory Problems |     10/19     |
-| Sorting and Searching |     03/35     |
-| Dynamic Programming   |     07/19     |
+| Sorting and Searching |     04/35     |
+| Dynamic Programming   |     13/19     |
 | Graph Algorithms      |     05/36     |
 | Range Queries         |     00/19     |
 | Tree Algorithms       |     02/16     |
@@ -17,6 +17,6 @@ This repo consists of accepted codes for CSES Problem Set.
 | Geometry              |      0/7      |
 | Advanced Techniques   |     01/24     |
 | Additional Problems   |     00/77     |
-| **Total**             |    **29/300**  |
+| **Total**             |    **36/300**  |
 
-#### *Last Update: 10 Oct 2024* 
+#### *Last Update: 20 Oct 2024* 
